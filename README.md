@@ -8,7 +8,7 @@ The first three images show the worksheets before the script being executed. If 
 
 2018-Pre-Analysis:
 
-![Alt 2018-Pre-Analysis](https://github.com/salvarenga25/week-2-DA/blob/main/Screenshots/2018-Pre-Analysis.png?raw=true)
+![Alt 2018-Pre-Analysis](https://github.com/salvarenga25/week-2-DA/VBA-Challenge/blob/main/Screenshots/2018-Pre-Analysis.png?raw=true)
 
 2019-Pre-Analysis:
 
